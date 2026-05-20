@@ -4,7 +4,7 @@ Machine Learning Engineer | SWE & DevSecOps | Aspiring ML Researcher
 
 I am a multidisciplinary Software Engineer based in Cameroon 🇨🇲, bridging the gap between robust software engineering (SWE/DevSecOps) and advanced Artificial Intelligence. 
 
-My current objective is to transition into pure AI research. **I am actively preparing for a Direct-Entry PhD in Machine Learning (aiming for the University of Toronto, Fall 2027). I spend my time implementing research papers, optimizing deep learning codebases, and contributing to open-source ML communities.
+My current objective is to transition into pure AI research. I am actively preparing for a Direct-Entry PhD in Machine Learning (aiming for the University of Toronto, Fall 2027). I spend my time implementing research papers, optimizing deep learning codebases, and contributing to open-source ML communities.
 
 
 
@@ -13,11 +13,11 @@ My current objective is to transition into pure AI research. **I am actively pre
 Because I come from a strong engineering background, I don't just build models in Jupyter Notebooks—I build modular, secure, and production-ready ML systems.
 
 *   AI & Deep Learning:Machine Learning, Deep Learning, PyTorch, Neural Networks architecture, Applied AI.
-*   Software Engineering (SWE):** Clean Architecture, Python, API Development (FastAPI), Object-Oriented Design.
+*   Software Engineering (SWE):Clean Architecture, Python, API Development (FastAPI), Object-Oriented Design.
 *   DevSecOps & MLOps:** Secure CI/CD pipelines, Docker, Cloud infrastructure, Model Deployment, Security integration.
 *   Data & Analytics (BI/BA):Business Intelligence, Data Engineering, SQL, ETL pipelines, Data-driven Business Analysis.
 
----
+
 
 What I'm Doing Right Now
 
