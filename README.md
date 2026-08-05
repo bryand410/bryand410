@@ -1,6 +1,6 @@
-Hi there, I'm ulrich bryand tamouffe teyo👋
+Hi there, I'm ulrich bryand tamouffe teyo
 
-Machine Learning Engineer | SWE & DevSecOps | Aspiring ML Researcher
+Machine Learning Engineer , SWE & DevSecOps , Aspiring ML Researcher
 
 I am a multidisciplinary Software Engineer based in Cameroon 🇨🇲, bridging the gap between robust software engineering (SWE/DevSecOps) and advanced Artificial Intelligence. 
 
@@ -14,7 +14,7 @@ Because I come from a strong engineering background, I don't just build models i
 
 *   AI & Deep Learning:Machine Learning, Deep Learning, PyTorch, Neural Networks architecture, Applied AI.
 *   Software Engineering (SWE):Clean Architecture, Python, API Development (FastAPI), Object-Oriented Design.
-*   DevSecOps & MLOps:** Secure CI/CD pipelines, Docker, Cloud infrastructure, Model Deployment, Security integration.
+*   DevSecOps & MLOps: Secure CI/CD pipelines, Docker, Cloud infrastructure, Model Deployment, Security integration.
 *   Data & Analytics (BI/BA):Business Intelligence, Data Engineering, SQL, ETL pipelines, Data-driven Business Analysis.
 
 
