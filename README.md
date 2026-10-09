@@ -1,50 +1,73 @@
-Hi there, I'm ulrich bryand tamouffe teyo
+# Ulrich Bryand Tamouffe Teyo
 
-Machine Learning Engineer , SWE & DevSecOps , Aspiring ML Researcher
+**DevSecOps & Cybersecurity Engineer** — Python · ML Security · Secure CI/CD
 
-I am a multidisciplinary Software Engineer based in Cameroon 🇨🇲, bridging the gap between robust software engineering (SWE/DevSecOps) and advanced Artificial Intelligence. 
+I build tooling that detects and blocks attacks against LLM applications.
+Software engineer based in Cameroon, working at the intersection of application
+security and machine learning.
 
-My current objective is to transition into pure AI research. I am actively preparing for a Direct-Entry PhD in Machine Learning (aiming for the University of Toronto, Fall 2027). I spend my time implementing research papers, optimizing deep learning codebases, and contributing to open-source ML communities.
+**Open to relocation to Canada (francophone mobility) and to remote-first roles.**
 
+---
 
+## What I'm building
 
- Core Competencies
+**[llm-sentinel](https://github.com/bryand410/llm-sentinel)** — an AI security gateway.
+A fine-tuned lightweight model that flags prompt-injection attempts *before* they
+reach the target model. PyTorch, FastAPI, Docker, full CI pipeline and test suite.
 
-Because I come from a strong engineering background, I don't just build models in Jupyter Notebooks—I build modular, secure, and production-ready ML systems.
+**[cmg-exploitation](https://github.com/bryand410/cmg-exploitation)** — production and
+maintenance tracking for an industrial group operating four sites. Python,
+PostgreSQL/Supabase, role-based access.
 
-*   AI & Deep Learning:Machine Learning, Deep Learning, PyTorch, Neural Networks architecture, Applied AI.
-*   Software Engineering (SWE):Clean Architecture, Python, API Development (FastAPI), Object-Oriented Design.
-*   DevSecOps & MLOps: Secure CI/CD pipelines, Docker, Cloud infrastructure, Model Deployment, Security integration.
-*   Data & Analytics (BI/BA):Business Intelligence, Data Engineering, SQL, ETL pipelines, Data-driven Business Analysis.
+---
 
+## Core competencies
 
+- **Application & AI security** — threat modelling, prompt-injection and LLM attack
+  surfaces, secure pipeline design
+- **DevSecOps** — CI/CD hardening (GitHub Actions), Docker, Linux, secrets and
+  access management
+- **Software engineering** — Python, FastAPI, clean architecture, object-oriented
+  design, automated testing
+- **Machine learning** — PyTorch, model fine-tuning, neural network architectures,
+  applied AI
+- **Data** — SQL, PostgreSQL, ETL pipelines, business intelligence
 
-What I'm Doing Right Now
+Because I come from an engineering background, I don't stop at a notebook: I ship
+modular, secure, production-ready systems.
 
-- Currently working on:Implementing foundational Deep Learning papers from scratch in PyTorch.
-- Looking to collaborate on:Open-source ML research, Data curation, and Model optimization (EleutherAI, ML Collective, etc.).
-- Currently learning:Advanced AI Alignment, Distributed Training, and LLM fine-tuning.
-- Ask me about:SWE best practices, Securing ML pipelines, and transitioning from Applied Engineering to Research.
+---
 
+## What I'm doing right now
 
+- Building and hardening **llm-sentinel**, my LLM security gateway
+- Implementing foundational deep learning papers from scratch in PyTorch
+- Looking to collaborate on **open-source ML security and evaluation tooling**
+- Learning: AI red-teaming, LLM fine-tuning, distributed training
 
-Tech Stack & Tools
+**Ask me about** securing ML pipelines, DevSecOps practice, and the security of
+LLM applications.
 
+---
+
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
 
+## Let's connect
 
- Let's Connect
+- **Email:** bryandtamouffe@gmail.com
+- **Open to:** DevSecOps, application security and ML engineering roles —
+  **Canada (francophone mobility)**, Europe, or remote
 
-If you are a researcher looking for engineering help, or simply want to chat about AI, feel free to reach out!
-
-
-[![Email] bryandtamouffe@gmail.com
-
-"Quality is not an act, it is a habit."
+> "Quality is not an act, it is a habit."
