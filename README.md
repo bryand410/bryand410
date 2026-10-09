@@ -12,11 +12,12 @@ security and machine learning.
 
 ## What I'm building
 
-**[mcp-sentinel](https://github.com/bryand410/mcp-sentinel)** — a security scanner for
+**[mcp-scrutiny](https://github.com/bryand410/mcp-scrutiny)** — a security scanner for
 Model Context Protocol servers. Finds unpinned packages, rug pulls, tool poisoning,
-cross-server shadowing and toxic flows. The detection is semantic, not keyword-based:
-a trained 31-feature model scores each tool description, with the contributing features
-reported. SARIF output for CI, zero third-party dependencies. *Published October 2026.*
+cross-server shadowing and toxic flows. Detection is semantic, not keyword-based: a
+trained 31-feature model scores each tool description and reports which features drove
+the decision, with a decode-and-rescore pass for encoded payloads. Fully offline, zero
+third-party dependencies, SARIF output for CI. *Published October 2026.*
 
 **[llm-sentinel](https://github.com/bryand410/llm-sentinel)** — an AI security gateway.
 A fine-tuned lightweight model that flags prompt-injection attempts *before* they
@@ -47,7 +48,7 @@ modular, secure, production-ready systems.
 
 ## What I'm doing right now
 
-- Building and hardening **mcp-sentinel**, my MCP security scanner
+- Building and hardening **mcp-scrutiny**, my MCP security scanner
 - Building and hardening **llm-sentinel**, my LLM security gateway
 - Implementing foundational deep learning papers from scratch in PyTorch
 - Looking to collaborate on **open-source ML security and evaluation tooling**
