@@ -68,6 +68,6 @@ LLM applications.
 
 - **Email:** bryandtamouffe@gmail.com
 - **Open to:** DevSecOps, application security and ML engineering roles —
-  **Canada (francophone mobility)**, Europe, or remote
+  **Canada**, Europe, or remote
 
 > "Quality is not an act, it is a habit."
