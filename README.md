@@ -6,7 +6,7 @@ I build tooling that detects and blocks attacks against LLM applications.
 Software engineer based in Cameroon, working at the intersection of application
 security and machine learning.
 
-**Open to relocation to Canada (francophone mobility) and to remote-first roles.**
+**Open to relocation to Canada and to remote-first roles.**
 
 ---
 
